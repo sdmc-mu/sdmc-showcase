@@ -1,0 +1,1 @@
+window.SDMC_CAMPUS_IMAGES = ["assets/campus/sdmc images (1).jpeg","assets/campus/sdmc images (2).jpeg","assets/campus/sdmc images (3).jpeg","assets/campus/sdmc images (4).jpeg","assets/campus/sdmc images (5).jpg","assets/campus/sdmc images (6).jpg"];
